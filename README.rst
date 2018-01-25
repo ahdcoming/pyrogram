@@ -93,7 +93,7 @@ Configuration
 Usage
 -----
 
--   And here's how Pyrogram looks:
+-   And here's how Pyrogram looks like:
 
     .. code:: python
 
@@ -178,15 +178,15 @@ License
         
         <br>
         <a href="https://pypi.python.org/pypi/Pyrogram">
-            Download
+            <b>Download</b>
         </a>
         •
         <a href="https://docs.pyrogram.ml">
-            Documentation
+            <b>Documentation</b>
         </a>
         •
         <a href="https://t.me/PyrogramChat">
-            Community
+            <b>Community</b>
         </a
         <br><br><br>
         <a href="compiler/api/source/main_api.tl">

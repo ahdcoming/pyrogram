@@ -177,7 +177,7 @@ License
         <b>Telegram MTProto API Client Library for Python</b>
         
         <br>
-        <a href="https://pypi.python.org/pypi/Pyrogram">
+        <a href="https://github.com/pyrogram/pyrogram/releases/latest">
             <b>Download</b>
         </a>
         •
